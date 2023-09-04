@@ -29,10 +29,10 @@ For extra credit:
 
 ## Project Rubric
 
-[] Notebook is code-complete. (5 points)
-[] All ten questions in notebook are completely and correctly answered. (10 points)
-[] File first_nlp.py is complete, runs and is commented. (7 points)
-[] Readme has student's name, class year and response to Perusall reading. (3 points)
-[] Extension (1-2 points for a start; 3-4 points for a complete extension; 5 points for a surprising and creative extension)
+- [] Notebook is code-complete. (5 points)
+- [] All ten questions in notebook are completely and correctly answered. (10 points)
+- [] File first_nlp.py is complete, runs and is commented. (7 points)
+- [] Readme has student's name, class year and response to Perusall reading. (3 points)
+- [] Extension (1-2 points for a start; 3-4 points for a complete extension; 5 points for a surprising and creative extension)
 
 ### Comments from grader
